@@ -74,7 +74,7 @@ Organize your response in the following JSON format:
 ...
 "question 40"
 ],
-"eval prompt": "evaluation prompt text"
+"eval_prompt": "evaluation prompt text"
 }}
 </output format>
 Your final output should only include the JSON object containing the instructions, questions, and
